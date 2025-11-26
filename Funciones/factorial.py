@@ -1,4 +1,5 @@
 # funciones/factorial.py
+# mi primera_rama
 def factorial(n):
     resultado = 1
     for i in range(1, n + 1):
